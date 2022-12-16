@@ -1,2 +1,2 @@
-# tutorial-php-mysql
-Source code tutorial PHP dan MySQL https://www.petanikode.com/tutorial-php-mysql/
+# Sumber
+Source code tutorial dari Petani Kode PHP dan MySQL https://www.petanikode.com/tutorial-php-mysql/
